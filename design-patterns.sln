@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "design-patterns", "design-p
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simple-strategy", "simple-strategy\simple-strategy.csproj", "{7B68350B-8D36-46D9-AC0D-3C8805CFDAE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simple-to-strategy", "simple-to-strategy\simple-to-strategy.csproj", "{7E4ACBB4-5DED-427A-AFC6-301CB0D59CBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7B68350B-8D36-46D9-AC0D-3C8805CFDAE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B68350B-8D36-46D9-AC0D-3C8805CFDAE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B68350B-8D36-46D9-AC0D-3C8805CFDAE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E4ACBB4-5DED-427A-AFC6-301CB0D59CBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E4ACBB4-5DED-427A-AFC6-301CB0D59CBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E4ACBB4-5DED-427A-AFC6-301CB0D59CBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E4ACBB4-5DED-427A-AFC6-301CB0D59CBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
